@@ -4,7 +4,7 @@ iOS11 demo application for flower classification using `Vision` and `CoreML`
 frameworks.
 
 <div align="center">
-<img src="https://github.com/cocoa-ml/FlowersVisionDemo/blob/master/Screenshot.png" alt="FlowersVisionDemo" width="300" height="464" />
+<img src="https://github.com/cocoa-ai/FlowersVisionDemo/blob/master/Screenshot.png" alt="FlowersVisionDemo" width="300" height="464" />
 </div>
 
 ## Model
@@ -21,7 +21,7 @@ using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 ## Installation
 
 ```sh
-git clone https://github.com/cocoa-ml/FlowersVisionDemo.git
+git clone https://github.com/cocoa-ai/FlowersVisionDemo.git
 cd FlowersVisionDemo
 pod install
 open FlowersVisionDemo.xcworkspace/
