@@ -24,7 +24,7 @@ using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 git clone https://github.com/cocoa-ai/FlowersVisionDemo.git
 cd FlowersVisionDemo
 pod install
-open FlowersVisionDemo.xcworkspace/
+open Flowers.xcworkspace/
 ```
 
 Download the [CoreMl model](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing)
