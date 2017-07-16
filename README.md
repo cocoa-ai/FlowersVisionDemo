@@ -32,6 +32,14 @@ and drag the file into your project.
 
 Build the project and run it on a simulator or a device with iOS 11.
 
+## Conversion
+
+```sh
+cd Convert
+./download.sh
+python convert.py
+```
+
 ## Author
 
 Vadym Markov, markov.vadym@gmail.com
