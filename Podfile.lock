@@ -1,5 +1,5 @@
 PODS:
-  - VisionLab (0.1.0)
+  - VisionLab (0.2.0)
 
 DEPENDENCIES:
   - VisionLab (from `https://github.com/cocoa-ai/VisionLab`)
@@ -10,11 +10,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   VisionLab:
-    :commit: 330e6baeb63246fe8e58b5c4601bac1a63a84ea4
+    :commit: aea33bfae9755aa9f175f2783f97593775f664e5
     :git: https://github.com/cocoa-ai/VisionLab
 
 SPEC CHECKSUMS:
-  VisionLab: 5be1c3c327a521a510d3407792f1b3103f4f7d14
+  VisionLab: 6fc2dcc1f731dd21891c7bd9878a93c0526bfc91
 
 PODFILE CHECKSUM: 8e6ebda03575aaa9c904fce0dd8e70528c42d143
 
