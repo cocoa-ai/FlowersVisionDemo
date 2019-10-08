@@ -10,7 +10,7 @@ frameworks.
 ## Model
 
 This demo is based on [Caffe CNNs for the Oxford 102 flower dataset](https://github.com/jimgoo/caffe-oxford102),
-which was converted to [CoreML model](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing)
+which was converted to [CoreML model](https://drive.google.com/file/d/1mg0V6xsQJ18yYfKORtZA506cZgdiqfGS/view?usp=sharing)
 using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 
 ## Requirements
